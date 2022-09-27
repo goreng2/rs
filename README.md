@@ -1,2 +1,1 @@
-# rs
-추천시스템
+# 추천시스템 (Recommend System)
